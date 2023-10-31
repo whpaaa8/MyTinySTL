@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\stltest.dir/objects.a
+E:\software\msys22\mingw64\bin\ar.exe cr CMakeFiles\stltest.dir/objects.a @CMakeFiles\stltest.dir\objects1.rsp
+E:\software\msys22\mingw64\bin\g++.exe  -O2 -Wall -Wextra -Wno-sign-compare -Wno-unused-but-set-variable -Wno-array-bounds -std=c++11 -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\stltest.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\stltest.exe -Wl,--out-implib,..\..\bin\libstltest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\stltest.dir\linklibs.rsp

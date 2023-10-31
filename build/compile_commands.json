@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Vscode workspace/MySTL/MyTinySTL/build/Test",
+  "command": "E:\\software\\msys22\\mingw64\\bin\\g++.exe  @CMakeFiles/STL_TEST.dir/includes_CXX.rsp  -O2 -Wall -Wextra -Wno-sign-compare -Wno-unused-but-set-variable -Wno-array-bounds -std=c++11 -O3 -DNDEBUG -o CMakeFiles\\STL_TEST.dir\\test.cpp.obj -c \"E:\\Vscode workspace\\MySTL\\MyTinySTL\\Test\\test.cpp\"",
+  "file": "E:/Vscode workspace/MySTL/MyTinySTL/Test/test.cpp"
+}
+]
